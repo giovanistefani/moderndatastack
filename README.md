@@ -15,15 +15,18 @@ Subir o Airflow via docker x
 
 Subir o Metabase via docker x
 
-Criar o script de execução 
+Criar o script de execução ?
 
-Testar a Execução 
+Testar a Execução ?
 
 Snowflake Data Warehouse:
 
 Criar a Conta no SnowFlake 
 Verificar a existência das tabelas 
 Obter os links de conexão e nome da conta 
+
+
+
 Extração:
 
 No Airbyte:
