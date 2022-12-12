@@ -31,17 +31,20 @@ Extração:
 
 No Airbyte:
 
-Conectar com as origens baseadas nos Csvs 
-Criar as entidades no snowflake através do script base da documentação 
-Conectar o destino no snowflake 
-Criar as conexões do airbyte associando as origens ao destino 
-Testar as conexões 
+Conectar com as origens baseadas nos Csvs x
+Criar as entidades no snowflake através do script base da documentação x
+Conectar o destino no snowflake x
+Criar as conexões do airbyte associando as origens ao destino x
+Testar as conexões x
+
 Preparação:
 
-No Airbyte (Destination Loading Method):
+No Airbyte (Destination Loading Method): 
 
-Local Staging (Ambiente de Desenvolvimento) 
-Cloud Staging (Ambiente de Produção) 
+Local Staging (Ambiente de Desenvolvimento) x
+Cloud Staging (Ambiente de Produção) x
+
+
 Transformação:
 
 No Dbt:
@@ -66,30 +69,26 @@ Criar uma Question
 Criar um Dashboard
 Adicionar uma Question
 Visualizar o Resultado
+
+
+
 Orquestração:
 
 No Airflow:
 
 Criar a dag
-
 Criar a Docker network
-
 Incluir nos composes a network criada
-
 Setup Up no serviço
-
 Testar a conexao entre os containers do airflow e do airbyte
-
 Criar as conexões com o Airbyte através do script
-
 Testar a execução do pipeline
+
 
 Encerramento:
 
 Material de Apoio:
 
 Links
-
 Códigos fonte
-
 Apresentação
